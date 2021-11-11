@@ -1,0 +1,64 @@
+.osnova {
+    display: flex;
+   flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+.div {
+    background: rgb(145,39,166);
+    background: linear-gradient(170deg, rgba(145,39,166,1) 18%, rgba(254,142,251,1) 100%);
+    width: 450px;
+    height: 350px;
+    border-radius: 20px;
+}
+.div2 {
+    background: rgb(205,45,45);
+background: linear-gradient(170deg, rgba(205,45,45,1) 18%, rgba(136,32,32,1) 100%);
+    width: 450px;
+    height: 350px;
+    border-radius: 20px;
+
+}
+.div3 {
+    background: rgb(100,17,156);
+background: linear-gradient(267deg, rgba(100,17,156,1) 18%, rgba(0,0,0,1) 100%);
+    width: 450px;
+    height: 350px;
+    border-radius: 20px;
+
+}
+.div4 {
+    background: rgb(156,17,17);
+background: linear-gradient(175deg, rgba(156,17,17,1) 18%, rgba(0,0,0,1) 100%);
+    width: 450px;
+    height: 350px;
+    border-radius: 20px;
+
+}
+.text_1 {
+    color: white; 
+    text-align: right;
+     font-size: 90%;
+ }
+ img {
+     position: absolute;
+     margin-top: -60px;
+     width: 320px;
+ }
+ .spider {
+     margin-top: -1%;
+ }
+ .artage {
+     margin-top: -7%;
+     margin-left: -50px;
+ }
+
+.iron_m {
+    margin-top: -5%;
+    margin-left: -20px;
+}
+
+.cap_a {
+    margin-top: -5%;
+    margin-left: -15px;
+}
